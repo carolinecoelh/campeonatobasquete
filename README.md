@@ -9,9 +9,9 @@ HTML<br>
 CSS<br>
 JavaScript<br>
 JQuery<br>
-Materialize<br>
-Site criado pelo grupo
-Alexandre Lima
-Caroline Coelho
-Helamã Vieira
-Rodrigo Redin
+Materialize<br><br><br>
+<strong>Site criado pelo grupo: </strong>
+Alexandre Lima,
+Caroline Coelho,
+Helamã Vieira,
+Rodrigo Redin.
